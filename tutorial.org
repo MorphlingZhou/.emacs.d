@@ -1,0 +1,12 @@
+** 查询帮助
+#+BEGIN_SRC txt
+1. C-h k 查询快捷键
+2. C-h v 查询变量
+3. C-h f 查询函数
+#+END_SRC 
+
+** 可以通过 M-x save-buffer 来取代 C-x C-s
+
+** 可以通过 C-h m 来查看当前buff激活了那些minor-mode
+
+** DTD工具(getting things done)
